@@ -1,0 +1,71 @@
+PYTANIE 1
+Które z poniższych zadań jest podstawowym działaniem wykonywanym na etapie analizy
+testów zgodnie z procesem testowym?
+a) Zidentyfikowanie wszelkich niezbędnych narzędzi i elementów infrastruktury.
+b) Utworzenie zestawów testów z procedur testowych.
+c) Przeanalizowanie zdobytych doświadczeń w celu udoskonalenia procesu.
+d) Dokonanie oceny podstawy testów pod kątem testowalności.
+
+PYTANIE 2
+Testujesz nową wersję oprogramowania do ekspresu do kawy. Urządzenie może parzyć
+różne rodzaje kawy w oparciu o cztery różne parametry: wielkość napoju, ilość cukru,
+dodatek mleka i rodzaj syropu. Kryteria są następujące:
+• Wielkość kawy (mała, średnia, duża).
+• Ilość cukru (brak, 1 jednostka, 2 jednostki, 3 jednostki, 4 jednostki).
+• Mleko (tak lub nie).
+• Syrop smakowy (brak, karmel, orzech laskowy, wanilia).
+Sporządzasz raport o defekcie zawierający następujące informacje:
+
+Tytuł: Niska temperatura kawy.
+Krótkie podsumowanie: Po wybraniu kawy z mlekiem czas przyrządzania napoju jest
+zbyt długi, a temperatura jest zbyt niska (poniżej 40 °C).
+Oczekiwany rezultat: Kawa powinna mieć standardową temperaturę (około 75°C).
+Poziom ryzyka: Średnie.
+Priorytet: Normalny.
+
+Jaką cenną informację pominięto w powyższym zgłoszeniu defektu?
+a) Rzeczywisty rezultat testu.
+b) Dane identyfikujące testowany ekspres.
+c) Status defektu.
+d) Pomysły dotyczące usprawnienia przypadku testowego.
+
+PYTANIE 3
+Która z poniższych korzyści może NAJPRAWDOPODOBNIEJ wynikać z automatyzacji
+testowania?
+a) Łatwość tworzenia testów regresji.
+b) Łatwość zapewnienia kontroli wersji w odniesieniu do zasobów testowych.
+c) Łatwość projektowania testów na potrzeby testowania zabezpieczeń.
+d) Łatwość wykonywania testów regresji. 
+
+
+PYTANIE 4
+Które narzędzie testowe charakteryzuje się poniższymi cechami?
+1. Wspomaganie zarządzania testami i procesem testowania.
+2. Wspomaganie testowania statycznego.
+3. Wspomaganie wykonywania i rejestrowania testów.
+4. Wspomaganie pomiaru wydajności i analizy dynamicznej.
+
+A. Narzędzia mierzące pokrycie.
+B. Narzędzia do zarządzania konfiguracją.
+C. Narzędzia wspomagające przegląd.
+D. Narzędzia do testowania przeciążającego.
+
+a) 1A, 2B, 3D, 4C
+b) 1B, 2C, 3D, 4A
+c) 1A, 2C, 3D, 4B
+d) 1B, 2C, 3A, 4D 
+
+
+PYTANIE 5
+Która z poniższych odpowiedzi zawiera NAJBARDZIEJ PRAWDOPODOBNE uzasadnienie
+przeprowadzenia projektu pilotażowego w związku z wdrożeniem w organizacji nowego
+narzędzia?
+a) Konieczność ustalenia, na ile dane narzędzie jest dopasowane do istniejących
+procesów i praktyk, oraz wskazania niezbędnych zmian.
+b) Konieczność dokonania oceny umiejętności w zakresie automatyzacji testowania oraz
+potrzeb w zakresie szkoleń, mentoringu i coachingu testerów, którzy będą używać
+tego narzędzia.
+c) Potrzeba ustalenia, czy narzędzie zapewnia wymaganą funkcjonalność i nie powiela
+funkcjonalności dotychczasowych narzędzi testowych.
+d) Konieczność dokonania oceny dostawcy narzędzia pod względem oferowanych
+szkoleń i pomocy technicznej. 

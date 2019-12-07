@@ -5,6 +5,7 @@ a) Zidentyfikowanie wszelkich niezbędnych narzędzi i elementów infrastruktury
 b) Utworzenie zestawów testów z procedur testowych.
 c) Przeanalizowanie zdobytych doświadczeń w celu udoskonalenia procesu.
 d) Dokonanie oceny podstawy testów pod kątem testowalności.
+Odp. a.
 
 PYTANIE 2
 Testujesz nową wersję oprogramowania do ekspresu do kawy. Urządzenie może parzyć
@@ -28,6 +29,7 @@ a) Rzeczywisty rezultat testu.
 b) Dane identyfikujące testowany ekspres.
 c) Status defektu.
 d) Pomysły dotyczące usprawnienia przypadku testowego.
+Odp. b.
 
 PYTANIE 3
 Która z poniższych korzyści może NAJPRAWDOPODOBNIEJ wynikać z automatyzacji
@@ -36,7 +38,7 @@ a) Łatwość tworzenia testów regresji.
 b) Łatwość zapewnienia kontroli wersji w odniesieniu do zasobów testowych.
 c) Łatwość projektowania testów na potrzeby testowania zabezpieczeń.
 d) Łatwość wykonywania testów regresji. 
-
+Odp. d.
 
 PYTANIE 4
 Które narzędzie testowe charakteryzuje się poniższymi cechami?
@@ -54,7 +56,7 @@ a) 1A, 2B, 3D, 4C
 b) 1B, 2C, 3D, 4A
 c) 1A, 2C, 3D, 4B
 d) 1B, 2C, 3A, 4D 
-
+Odp. d.
 
 PYTANIE 5
 Która z poniższych odpowiedzi zawiera NAJBARDZIEJ PRAWDOPODOBNE uzasadnienie
@@ -69,3 +71,4 @@ c) Potrzeba ustalenia, czy narzędzie zapewnia wymaganą funkcjonalność i nie 
 funkcjonalności dotychczasowych narzędzi testowych.
 d) Konieczność dokonania oceny dostawcy narzędzia pod względem oferowanych
 szkoleń i pomocy technicznej. 
+Odp. c.

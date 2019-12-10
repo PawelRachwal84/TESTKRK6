@@ -15,7 +15,7 @@ Od wymagań po strategie testową; precyzuje wykonanie poszczególnych faz od an
 Mówiąc w skrócie jest to zbiór najlepszych praktyk i wytycznych jak prowadzić projekt który ma na cely wytworzenie oprogramowania.
 
 Merge - połączyć lub scalić, aby utworzyć jeden byt. W tym przypadku połączyc np wersje kodu lub dokumentu jako główną obowiązującą wersje.
-Wyróżniamy tu też pojęcie master - czyli właśnie tego głównego dokumentu, kodu - oraz pojęcie branch - czyli osobnej gałęzi na której pracują indywidualni developerzy/analitycy.
+Wyróżniamy tu też pojęcie master (master branch) - czyli właśnie tego głównego dokumentu, kodu - oraz pojęcie branch - czyli osobnej gałęzi na której pracują indywidualni developerzy/analitycy.
 
 Issue - na ogół oznacza to problem lub błąd. W JIRA - Issue Type to pole w którym wybieramy rodzaj zgłoszenia - wiec JIRA jako taka określa tym pojęciem typ: od zadania (task) poprzez Wymaganie (User Story) aż po faktyczny błąd (Bug lub Defect)
 Issue types mogą byc tworzenone na życzenie użytowników JIRY - np Improvement (ulepszene) QA task (zadania testerskie - w którym np można przechowywac przypadki testowe)
@@ -23,11 +23,14 @@ Issue types mogą byc tworzenone na życzenie użytowników JIRY - np Improvemen
 Sub-Task - zadanie podrzędne - w JIRZE jest to zgłoszenie które przynależy do innego Issue. jest automatycznie z nim połączone i zamknięcie go może być wymagane przed zamknięciem głównego zgłoszenia.
 
 Branch - gałąż - często osobna instancja na której pracuje pojedynczy developer tworząc włąsny komponent lub własne linie kodu. 
-Mastepnie po przetestowaniu nastepuje merge z Master
+Nastepnie po przetestowaniu nastepuje merge z Master
 
-Pull request
-Get
-Post
+Pull request - w Git Hub wymuszenie scalenia dokuentów z jednego brancha na inny
+
+Get - W Postanie czy SoapUI komenda oznaczająca pobranie wskazanych danych z użyciem API
+
+Post - W Postanie czy SoapUI koenda oznaczająca wysłanie wskazanych danych z użyciem API
+
 Req/requirements - wymagania
 
 Warto znać

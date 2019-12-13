@@ -1,8 +1,2 @@
-class Maciek(object):
-    "Maciek""docstring for Maciek."""
-
-def __Maciekinit__(self, arg):
-        su
-per(Maciek
-    , self).__inMaciekit__()
-        self.arg = arg
+print ("Hello, World!")
+exit()

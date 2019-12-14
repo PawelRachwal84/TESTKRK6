@@ -1,0 +1,17 @@
+ogólny pregląd - ogólne przeglądnięcie strony pod względem dziłania
+Wymagania - Z dokumentacji
+Approach (ogólne podejście do testów) - testy jednostkowe 
+Constrains (ograniczenia) - brak mozliwosci fizycznego przetestowania na wszystkich urzadzeniach
+Test Phases/types/levels - testy integracyjne
+Security considerations (kwestie bezpieczeństwa) - brak możliwości logowania
+Scope (zakres testów)co ma być przetostowane -
+Entry/Exit criteria (kryteria przechodzenia między fazami) -
+Czy błędy musza być naprawione między fazami - 
+Test data - dane żródłowe (niewprowadzam - nic nowego nie wprowadzamy).
+Test tools - 
+Environments (środowiska) - opis/oznaczenia środowisk -
+Roles and Responsibilities (role i obowiązki) -
+Test Deliverables -
+Test Locations - każdy ze swojego desktopu Contacts
+Schedule - testowanie  gotowego, już dostarczonego produktu.
+Risks - strona się nie spodba klientowi 

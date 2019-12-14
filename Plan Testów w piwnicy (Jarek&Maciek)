@@ -1,17 +1,25 @@
 Overview: Testowanie strony www.studiovalido.com. Przeprowadzamy testy eksploracyjne oraz akceptacyjne. Osoby odpowiedzialne za stworzenie dokumentów: Maciek
-References: brak wymagań
-Approach: plan testu stworzony per projekt. Informqcja o poziomie testów: testy UAT (akceptacyjne). Za testy odpowiada wewnętrzny dwuosobowy dział testów (piwnica pok. nr 13)
-Ograniczenia (Constrains): dostępny wyłącznie sys operacyjny iOS12, Tylko jeden junior tester (w trakcie kursu), brak znajomości wymagań
-Test Phases/types/levels: faza UAT - odpowiedzialny junior tester, technologia użyta: Selenium IDE
-Security considerations (kwestie bezpieczeństwa): brak logowania, strona dostępna publicznie, strona https - dane wysyłane przez strone są bezpieczne, certyfikat ważny, informacje wysyłane w witrynie pozostają prywatne
-Scope (zakres testów): testy dynamiczne funkcjonalności strony: poprawność wyświetlania i przejścia pomiędzy sekcjami strony, poprawność działania buttonów na stronie
-Entry/Exit criteria (kryteria przechodzenia między fazami): brak kryteriów, testy UAT - faza końcowa
-Test data (dane testowe): brak konieczności wprowadzenia danych
+References: strona internetowa https://studiovalido.com
+Approach: plan testu stworzony per projekt. Informacja o poziomie testów: testy UAT (akceptacyjne). Za testy odpowiada wewnętrzny dwuosobowy dział testów (piwnica pok. nr 13)
+Ograniczenia (Constrains): dostępny wyłącznie sys operacyjny iOS12, Tylko jeden junior tester (w trakcie kursu)-czyli niedobór "białka", brak znajomości wymagań, 
+Test Phases/types/levels: testy UAT - odpowiedzialny junior tester, technologia użyta: Selenium IDE
+Security considerations (kwestie bezpieczeństwa): brak logowania, strona dostępna publicznie, strona https - dane wysyłane przez strone są bezpieczne, certyfikat SSL ważny, informacje wysyłane w witrynie pozostają prywatne
+Scope (zakres testów): testy statyczne (białoskrzynkowe) w oparciu o przegląd kodu oraz pair programming, testy dynamiczne (czarnoskrzynkowe) - eksploracyjne - funkcjonalności strony: poprawność wyświetlania i przejścia pomiędzy sekcjami strony, poprawność działania buttonów na stronie
+Entry/Exit criteria (kryteria przechodzenia między fazami): testy jednostkowe w trakcie tworzenia produktu, testy UAT - faza końcowa
+Test data (dane testowe): brak konieczności wprowadzenia danych, lub uzyskanie tekstów źrdłowych wprowadzonych na stronie od developera i porównanie zgodności
 Test tools: Jira, Selenium IDE, Github, Qtest
 Environments (środowiska): przeglądarka Chrome Wersja 78.0.3904.108 (64-bitowa), Komputer z systemem operacyjnym iOS Catalina wersja 10.15
-Team management: Maciek - junior tester
+Team management: 
+Test Manager
+Process Owner 
+Developerzy
+tester manualny: Maciek - junior tester
 Test Deliverables (dokumentacja) - wyniki testów wygenerowane z programu qtest
 Test Location: dział testów
 Contacts: 665672772
 Schedule: ASAP
+testy jednostkowe: 01.01.2020-01.02.2020
+testy systemowe: 02.02.2020-01.03.2020
+testy eksploracyjne: 02.03.2020-01-04-2020
+testy akceptacyjne UAT: 02.04.2020-30.04.2020
 Risks - (ryzyka projektowe i produktowe z propozycją ich zmniejszenia/wyeliminowania)- propozycja zatrudnienia większej ilości pracowników, tylko jeden sys operacyjny - zalecenie zapewnienia urządzeń z innymi sys operacyjnym, udostępnienie dokumentacji i wymagań testowych

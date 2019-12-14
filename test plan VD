@@ -1,0 +1,64 @@
+Overview: Test plan dla strony internetowej Studio Valido, za stworzenie dokumentu odpowiada tester
+
+References: strona internetowa https://www.studiovalido.com/
+
+Approach: plan tworzony per projekt, testy eksploracyjne wykonywane przez testerów
+
+Constrains: brak wymagań testowych, krótkie doświadczenie w testowaniu, ograniczenia sprzętowe: brak tabletów i smartfonów do testowania
+
+Test Phases/types/levels:
+unit testy wykonywane przez developerów
+testy eksploracyjne wykonywane przez testerów
+retesty wykonywane przez testerów
+testy regresyjne wykonywane przez testerów
+testy akceptacyjne wykonywane przez użytkowników
+testy beta przez użytkowników
+
+Security considerations: 
+brak rejestracji i logowania
+strona zabezpieczona certyfikatem SSL
+brak dostępu witryny do kamery użytkownika
+
+Scope:
+Testy białoskrzynkowe: jednostkowe - testowanie kodu
+Testy czarnoskrzynkowe: testy eksploracyjne - testowanie witryny internetowej
+Retesty po naprawieniu błędów
+Testy regresyjne po modyfikacji kodu
+
+Entry/Exit criteria: 
+Testy jednostkowe w początkowej fazie testowania, w trakcie pisania kodu
+Testy eksploracyjne w testowania
+Testy akceptacyjne przed wypuszczeniem produktu
+Testy beta przez użytkowników
+
+Test data: Zbiór źródłowych tekstów na stronie
+
+Test tools: Jira, witryna
+
+Environments: 
+Windows 10, 
+przeglądarki: chrome, firefox, internet explorer
+
+Team management:
+Roles and Responsibilities:
+Test Manager - zarządzanie testami
+UX - zaprojektowanie strony
+Process Owner
+Developerzy - kod, unit tests
+Testerzy - testowanie, zgłaszanie defektów, retesty
+
+
+Schedule:
+Początek: 01.11.2019
+Unit testy: 01.11-01.12.2019
+Testowanie eksploracyjne i retesty: 01.12.2019 - 31.12.2019
+Testy akceptacyjne: 01.01-10.01.2020
+Testy beta: 11.01.2020 +
+
+
+Risks:
+Mała liczba testerów manualnych, zatrudnienie większej ilości osób z włączeniem juniorów
+Więskza liczba zachorowań w sezonie jesienno- zimowym, umożliwienie pracy zdalnej, propagowanie zdrowego trybu zycia
+
+
+

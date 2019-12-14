@@ -32,12 +32,12 @@ Scope:
 Testy do wykoniania:
 Klikalność linków - czy przenoszą w odpowienie miejsce na stronie.
 Klikalność linków do stron zewnętrznych - czy są aktywne i czy przenoszą do odpowiednich stron.
-Przewijanie strałką klawiatury, kółkiem myszy.
+Przewijanie strzałką klawiatury, kółkiem myszy.
 Sprawdzienie działania na różnych rozdzielczościach.
-Sprawdzenei działania na urządzeniach mobilnych.
+Sprawdzenie działania na urządzeniach mobilnych.
 
 Testy niewykonywane:
-Logowanie, sprawdzenie możliwosći wysłania emaila po kliknięciu w kontakt.
+Logowanie, sprawdzenie możliwości wysłania emaila po kliknięciu w kontakt.
 
 Entry/Exit: 
 Strona jest gotowa po fazie developementu i przetestowana przez programistów. Wykryte błędy będą naprawiane w drugim sprincie.
@@ -61,13 +61,13 @@ Team management
 Roles and Responsibilities:
 Cały jednoosobowy zespół odpowiedzialny za testy eksploracyjne.
 Test Deliverables:
-spotkania co 2 dni w celu potwierdzenia zdrowia członków zespołu.
+spotkania co 2 dzień w celu potwierdzenia zdrowia członków zespołu.
 Test Locations:
 Każdy tester ze swojego laptopa w pierwszym sprincie, a w drugim wszycy razem w firmowym TestLab w piwnicy bez okien.
 
 Contacts:
 Marian PM - marian@sfdnwo.com
-Krystian tester - krystian@sfdnwo.com - nie przeszkadać w fazie pierwsze.
+Krystian tester - krystian@sfdnwo.com - nie przeszkadać w fazie pierwszej.
 
 Schedule:
 Sprint 1 - 07.01.2020-17.01.2020

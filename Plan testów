@@ -1,0 +1,67 @@
+Overview
+Do przetestowania strona internetowa Studio Valido typu single page.
+Stategia testów dopasowana do założeń wymienionych w dokumentacji. Priorytetem jest prztestowanie najważniejszych funkcjonalności strony (copy paste z założeń, dokumentacji projektu).
+Za stworzenie ogólnego planu testów odpowiedzialny jest Test Manager. Za stworzenie poniższego planu odpowiedzialny jest tester Stefan.
+
+References - https://www.studiovalido.com/
+
+Wymagania znajdują się w dokumentacji projektowej.
+
+Approach
+Plan stworzony jest w podejściu Agile w postaci sprintu.
+Potrzebne do wykonania testy: unit test, integracyjne, akceptacyjne, UX + retesty i testy regresji.
+Za wykonanie testów odpowiedzialny jest zespół testerski oraz wybrani dewelopierzy z naszej organizacji.
+
+Constrains
+W zespole testerskim jest niedobór białka ludzkiego, co może wpłynąć na wydłużenie czasu wykonywania testów.
+
+Test Phases/types/levels
+Faza 1 - unit testy wykonują dewelopierzy przy pomocy wybranych przez siebie narzędzi.
+Faza 2 - testy integracyjne wykonują testerzy (testy automatyczne) przy pomocy Selenium WebDriver.
+Faza 3 - testy eksploracyjne wykonują testerzy sprawdzając funckjonalność strony internetowej.
+Faza 4 - testy akceptacyjne wykonuje PO lub/i sam Klient.
+
+Security considerations
+Sprawdzenie czy strona jest zabezpieczona przed nieautoryzowaną edycją plików strony.
+Brak rejestracji i logowania.
+Strona zabezpieczona certyfikatem SSL.
+Brak dostępu witryny do kamery użytkownika.
+
+Scope
+Testy białoskrzynkowe - unit test, testy statyczne (review).
+Testy czarnoskrzynkowe - testy integracyjne, eksploracyjne, akceptacyjne.
+Testowanie typu end-to-end.
+Testowanie pod względem UX.
+
+Enrty/Exit criteria
+Testy jednostkowe w początkowej fazie testowania, w trakcie pisania kodu.
+Testy eksploracyjne zakończone bez znacznych, krytycznych defektów.
+Testy akceptacyjne zgodne z założeniami, specyfikacją przed wypuszczeniem produktu.
+
+Test data
+Zbiór źródłowych tekstów na stronie.
+
+Test tools:
+JIRA, QTest, Selenium WebDriver, witryna, dev tools.
+
+Enviroments
+Windows 10
+Przeglądarki: chrome, firefox, internet explorer
+Środowisko produkcyjne
+
+Team managment:
+Roles and responsibilies
+Test Manager
+UX
+Process Owner
+Developerzy
+Testerzy
+
+Schedule
+(pod 2-tyg. sprinty zgodnie z Agile)
+...
+
+Risks
+Dostępne białko ludzkie, które jest w ograniczonej ilości - L4, wypadki, itp. -> studenty!
+Braki sprzętowe - niewystarczające ilości smartfonów, iphonów.
+Niektórzy testerzy/developerzy pracują zdalnie - trudności w związku z różnymi strefami czasowymi.

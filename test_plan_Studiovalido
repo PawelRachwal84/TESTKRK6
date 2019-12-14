@@ -1,0 +1,59 @@
+Overview
+Strona firmy, która wspomaga proces budowy marki o design, nowe technologie (pozycjonowanie), identyfikacje graficzną , user experience. 
+Odpowiedzialna osoba: A.Jakóbek
+
+References: 
+https://www.studiovalido.com/
+
+Approach
+Testy mają na celu potwierdzenie, że strona spełnia popdstawowe założenia projektowe to znaczy informuje o zakresie
+działalności firmy, Został zrobiony development, czyli produkt przeszedł 90 % UT oraz 87 % SIT. 
+Następuje faza testów akceptacyjnych (UAT) oraz testów eksploracyjnych.
+Kto testuje: grupa testerów przydzielona do projektu 
+
+Constrains 
+Jest 3 testerów w tym dwóch nowo zatrudionych Juniorów; posiadamy sprzęt dla Androida oraz IOS, ale nie dla Microsoft
+
+Test Phases/types/levels - opisac fazy i poziomy testów z informacją kto jest odpowiedzialny za dany poziom testów/testerów. 
+Jakiej technologi używa
+I faza testów odbyła się juz po developmencie. (developerzy+testerzy)
+II faza testów eksploracyjnych na poziomie testów akceptacyjnych (testerzy)
+Technologia: IOS, Android, Microsoft na przeglądarce Chrome, Safari oraz Firefox 
+
+
+Security considerations
+Strona jest stroą informacyjną, nie jest wymagane logowanie ani podawanie żadnych danych
+
+Scope 
+Black-box testing, testy eksploracyjne, poszukiwanie błędów oraz issues
+
+Entry/Exit criteria 
+By z I fazy przejść do II musiało być spełnionych powyżej 80 % testów z fazy I z pokryciem wszystkich błędów krytycznych.
+
+Test data
+Nie potrzeba generować żadnych danych, albowiem żadne dane nie są wymagane, strona czysto informacyjna
+
+Test tools
+Dev tool (by przeglądać stronę dla wersji mobilnych), Selenium (nagrywanie sesji), qTest, Jira
+
+Environments (środowiska) - opis/oznaczenia środowisk - a znaczenie jeśłi w firie korzysta się z wielu albo są dependencje między systemami.
+
+Team management
+Roles and Responsibilities
+Kierownik i moderator: Senior tester
+Przeglądający: Senior, 2 X Junior tester
+Skryba: Junior1
+
+Test Deliverables: raport z przeglądu
+Test Locations: testy odbywać się będą w firmie zarówno dla zespołu testowego jak i dla użytkowników 
+Contacts: A.Jakobek
+
+Schedule 
+25 styczeń 2020 raport testerów, do 15 lutego 2020 testy użytkowników
+
+Risks
+Okres zimy, duże prawdopodobieństwo zachorowania -- katering witaminowy; plus zapoznać 4 osobę do zespołu, by była świadoma przebiegu projektu i gotowa zastąpić
+Chęć wyjechania na wakacje ziomowe -- uzgodnienie z pracownikami urlopu po zakończeniu tej fazy projektu
+Ferie w małopolsce w okresie projektu -- uzgodnienie pracy zdalnej w tym okresie w zredukowanej formie (3/5 dni)
+Okres martwy przez 10 dni (święta, sylwester) -- ustalenie dni pracy zdalnej pomiędzy wydarzeniami
+

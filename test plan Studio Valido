@@ -1,0 +1,19 @@
+Overview - stworzenie strony na potrzeby Studio Valido - test plan 
+Rewferences - https://www.studiovalido.com/
+Approach - testy ekspoloatacyjne wykonywane przes zespół testerów SDA
+Contrains - najwiekszym ograniczeniem jest czas - 30 minut 
+Test phases - administracyjne testy akceptacyjne UAT
+Securiry cosiderationa - stona posiada certyfikat https nie wymaga logowania nie przechowuje danych osobowych , nie pojawa sie informacja o cookies
+Scope - przetestowanie funkcjonalności strony pod kątem róznej rozdzielnosci dla urzadzeń mobilnych 
+
+Entry /Exit criteria: nie występuje
+
+test data: skopiowane z produkcji
+
+Environments: chorme konsola F12
+
+Team management: produkt manager junior tester 
+
+Test Deliverables = raport z testów opisane poszczególne przypadki przetestowania)
+Schedule: 30 min
+	Risks:

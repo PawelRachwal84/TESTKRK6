@@ -1,0 +1,40 @@
+Słowniczek pojęć
+
+MVP - minimum viable product - wersja produktu która ma wystarczającą ilość funkcjonalności by zaspokoić podstawowe potrzeby użytkowników. 
+Pozwala dostarczyć informacje zwrotną (feedback) potrzebną do dalszego rozwijania i usprawniania produktu.
+
+Feedback - informacja zwrotna - w slowniku testera najczęściej informacja od użytkowników co jest dobre lub złe w aplikacji. 
+Nie jest to błąd - raczej opinia o tym czy coś sie im podoba czy nie. 
+W metodykach zwinnych feedback jest ważny by ulepszac wytwarzany produkt.
+
+SDLC - software development life cycle - cykl życia oprogramowania - częste pytanie na rozmowach o prace - czy wiesz co to SDLC?
+Jest to proces stosowany przez przemysł oprogramowania do projektowania, opracowywania i testowania wysokiej jakości oprogramowania. 
+SDLC ma na celu stworzenie oprogramowania, które spełnia lub przekracza oczekiwania klientów, przy osiągnieciu danego czasie zakończenia. 
+Zawiera w sobie informacje jakie elementy muszą znależć sie w projektcie który powinien zakończyc sie sukcesem - uwzględnia stworzenie potrzebnej dokumentacji:
+Od wymagań po strategie testową; precyzuje wykonanie poszczególnych faz od analizy po testy i wprowadzenie na produkcje. 
+Mówiąc w skrócie jest to zbiór najlepszych praktyk i wytycznych jak prowadzić projekt który ma na cely wytworzenie oprogramowania.
+
+Merge - połączyć lub scalić, aby utworzyć jeden byt. W tym przypadku połączyc np wersje kodu lub dokumentu jako główną obowiązującą wersje.
+Wyróżniamy tu też pojęcie master (master branch) - czyli właśnie tego głównego dokumentu, kodu - oraz pojęcie branch - czyli osobnej gałęzi na której pracują indywidualni developerzy/analitycy.
+
+Issue - na ogół oznacza to problem lub błąd. W JIRA - Issue Type to pole w którym wybieramy rodzaj zgłoszenia - wiec JIRA jako taka określa tym pojęciem typ: od zadania (task) poprzez Wymaganie (User Story) aż po faktyczny błąd (Bug lub Defect)
+Issue types mogą byc tworzenone na życzenie użytowników JIRY - np Improvement (ulepszene) QA task (zadania testerskie - w którym np można przechowywac przypadki testowe)
+
+Sub-Task - zadanie podrzędne - w JIRZE jest to zgłoszenie które przynależy do innego Issue. jest automatycznie z nim połączone i zamknięcie go może być wymagane przed zamknięciem głównego zgłoszenia.
+
+Branch - gałąż - często osobna instancja na której pracuje pojedynczy developer tworząc włąsny komponent lub własne linie kodu. 
+Nastepnie po przetestowaniu nastepuje merge z Master
+
+Pull request - w Git Hub wymuszenie scalenia dokuentów z jednego brancha na inny
+
+Get - W Postmanie czy SoapUI komenda oznaczająca pobranie wskazanych danych z użyciem API
+
+Post - W Postmanie czy SoapUI komenda oznaczająca wysłanie wskazanych danych z użyciem API
+
+Req/requirements - wymagania
+
+Release - w kontekście qTest, żeby CREATED TEST RUN musieliśmy wybrać jakiś Release - 
+
+Warto znać
+Blog guru99
+https://www.guru99.com/software-testing-introduction-importance.html

@@ -1,2 +1,2 @@
-Czysty 
-Beton
+print ("Hello Big World out there")
+exit()

@@ -1,0 +1,39 @@
+Overview (ogólny przegląd) - ogólny opis projektu i tworzenia strategii testowej/planu testów. Informacje kto jest odpowiedzialny za stworzenie dokumentu.
+
+References (referencje/odniesiania/materiały źródłowe) - Gdzie znajdują sie wymagania
+
+Approach (ogólne podejście do testów) - czy plan jest stworzony per projekt czy moze per iteracja/sprint/faza
+Informacje o poziomach testow (czy są testy jednostkowe, integracyjne, etc.)
+Kto jest odpowiedzialy za testy (firma zewnętrzna, wydzielona częśc naszej organizacji a może testują developerz/analitycy)
+
+Constrains (ograniczenia) jakie widzimy problemy w proesie testowym. Co nas ogranicza/utrudnia testy (ale nie Ryzyka). 
+Tutaj omawiamy kwestie zasobów tak ludzkich jak i sprzętowych
+
+Test Phases/types/levels - opisac fazy i poziomy testów z informacją kto jest odpowiedzialny za dany poziom testów/testerów. 
+Jakiej technologi używamy
+
+Security considerations (kwestie bezpieczeństwa). Jak zostaną zaadreswoane kwestie bezpieczeństwa aplikacji. 
+Od informacji o logowaniu (dostępy/zezwolenia) poprzez informacje o bezpieczeństwie przechowywania danych
+
+Scope (zakres testów)co ma być przetostowane - a co nie (np tylko testy czarno skrzynkowe a nie biało/ czy będą review i testy statyczne)
+
+Entry/Exit criteria (kryteria przechodzenia między fazami) - czy zakładamy jakiś poziom pokrycia testów nim przejdziemy do kolejnej fazy.
+Czy błędy musza być naprawione między fazami (albo czy tylko te o konkretnym priorytecie).
+
+Test data (dane testowe) - jakie będą wykorzystane - czy wygenerowane - czy skopiowane z produkcji, itp.
+
+Test tools - opis narzędzi testowych wykorzystanych w projekcie
+
+Environments (środowiska) - opis/oznaczenia środowisk - a znaczenie jeśłi w firie korzysta się z wielu albo są dependencje między systemami.
+
+Team management
+Roles and Responsibilities (role i obowiązki) - opis kto jest kim i co ma robić 
+Test Deliverables - dokuentacja którą będziemy dostarczać. Oraz np jakie spotkania/raporty będą wysyłane w trakcie testó
+Test Locations - jeśli rozproszone zespoły - gdzie będą odbywać sie testy. Ale też czy ay Test Lab czy każdy ze swojego desktopu
+Contacts
+
+Schedule - daty i terminy dostarczenia testów
+
+Risks - ryzyka projektowe i produktowe z propozycją ich zmniejszenia/wyeliminowania.
+
+

@@ -1,37 +1,25 @@
-Overview (ogólny przegląd) - ogólny opis projektu i tworzenia strategii testowej/planu testów. Informacje kto jest odpowiedzialny za stworzenie dokumentu.
-
-References (referencje/odniesiania/materiały źródłowe) - Gdzie znajdują sie wymagania
-
-Approach (ogólne podejście do testów) - czy plan jest stworzony per projekt czy moze per iteracja/sprint/faza
-Informacje o poziomach testow (czy są testy jednostkowe, integracyjne, etc.)
-Kto jest odpowiedzialy za testy (firma zewnętrzna, wydzielona częśc naszej organizacji a może testują developerz/analitycy)
-
-Constrains (ograniczenia) jakie widzimy problemy w proesie testowym. Co nas ogranicza/utrudnia testy (ale nie Ryzyka). 
-Tutaj omawiamy kwestie zasobów tak ludzkich jak i sprzętowych
-
-Test Phases/types/levels - opisac fazy i poziomy testów z informacją kto jest odpowiedzialny za dany poziom testów/testerów. 
-Jakiej technologi używamy
-
-Security considerations (kwestie bezpieczeństwa). Jak zostaną zaadreswoane kwestie bezpieczeństwa aplikacji. 
-Od informacji o logowaniu (dostępy/zezwolenia) poprzez informacje o bezpieczeństwie przechowywania danych
-
-Scope (zakres testów)co ma być przetostowane - a co nie (np tylko testy czarno skrzynkowe a nie biało/ czy będą review i testy statyczne)
-
-Entry/Exit criteria (kryteria przechodzenia między fazami) - czy zakładamy jakiś poziom pokrycia testów nim przejdziemy do kolejnej fazy.
-Czy błędy musza być naprawione między fazami (albo czy tylko te o konkretnym priorytecie).
-
-Test data (dane testowe) - jakie będą wykorzystane - czy wygenerowane - czy skopiowane z produkcji, itp.
-
-Test tools - opis narzędzi testowych wykorzystanych w projekcie
-
-Environments (środowiska) - opis/oznaczenia środowisk - a znaczenie jeśłi w firie korzysta się z wielu albo są dependencje między systemami.
-
+Studio Valido
+Overview – test plan dla strony internetowej studio valido, za stworzenie dokumentu odpowiada tester -  
+References - https://www.studiovalido.com/
+Approach – przeanalizowanie strony (per Project) i przetestowanie kluczowych Visual efects 
+Informacje o poziomach testow – zastosowanie testow eksploracyjnych
+Odpowiedzialni za testy : wewnetrzna firma  M&E 
+Constrains – brak
+Test Phases/types/levels – funkcjonalna, manualna i testy eksploracyjne
+Security considerations – sprawdzenie czy strona jest HTTP
+Scope – tylko Black box tests, testy statyczne, review 
+Entry/Exit criteria (kryteria przechodzenia między fazami) – koncowa faza projektu, developer oddal plan
+Test data
+Test tools – galaxy S5, iPhone 5/SE, iPad, PC
+Environments – 
 Team management
-Roles and Responsibilities (role i obowiązki) - opis kto jest kim i co ma robić 
-Test Deliverables - dokuentacja którą będziemy dostarczać. Oraz np jakie spotkania/raporty będą wysyłane w trakcie testó
-Test Locations - jeśli rozproszone zespoły - gdzie będą odbywać sie testy. Ale też czy ay Test Lab czy każdy ze swojego desktopu
+
+Roles and Responsibilities – 
+Test Deliverables – raporty beda wysylane co tydzien, spotkania co dwa tygodnie 
+Test Locations – Test Lab
 Contacts
 
-Schedule - daty i terminy dostarczenia testów
+Schedule – planowane oddanie projektu 31.01.2020
+Risks- 
+ - 
 
-Risks - ryzyka projektowe i produktowe z propozycją ich zmniejszenia/wyeliminowania.

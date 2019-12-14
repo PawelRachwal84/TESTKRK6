@@ -1,0 +1,62 @@
+Test Plan strony internetowej:https://www.studiovalido.com/
+
+strategiate stowastworzona, aby potwierdzic ogolnie zalozone wymagania zastosowane do fukncjonalności strony. Osoba odpowioedzialna
+za dokument - Jaroslaw Chronowski 
+
+References - wwzystkie materialy dostepne u Analityka orasz DEV 
+
+Approche - testy stworzone oraznapisane do danej strony sa jedynymi testami ktore beda przeprowadzone w danym projekcie. 
+
+Contrains - problemem jest brak testow jednostkowych stworzonych na samym poczartku w podstawowej fazie wytwarzania oprogramowania 
+
+FAZY TESTOW
+
+1. testy integracyjne - potwierdzenie prawidwlowego kontaku z baza poprzez API
+- odporność i obsługa błędów,
+ aby uniknąć niepoprawnych operacji
+- testowanie kombinatoryjne wielu różnych interfejsów.
+2. testy end -tu - end - sprawdzamy czy wszystkie lementy z pozi aplikacjia dzuialaja prawidlowo z zalozeniami i wymaganiami
+3. testy dymne - sprawdzenie czy aplikazcja i podstawowe fukcje dzialaja - logowanie panelu uzytkownika oraz 
+klawiszy i przyciskow funkcyjnych 
+4. testy akceptacyjne -msprawdzamy  wymagania biznesowe zawarte w opisie wymagan 
+5. testy wydajnosci.- dzialanie systemu pod duzym obciazeniem 
+6. testy ekspoloracyjne - sprawdzeniepo usprawnieniu i wyeliminowania bledow juz znalezionych oraz przeprowadzenie dodartkowo : 
+7. retestow.
+
+BEZPIECZENSTWO :zabezpieczenieprotokolami https ,logowanie, przechowywanie danych, zapamietywanie hasel i ich przetwarzanie 
+
+SCOPE  - zewzgledu na jedyne przeprowadzxone testy oraz ilosc bialka ludzkiego w postaci 2szzt. testy beda przeprowadzane w krotkim
+zakresie czasowym 1 tuygodnia.
+
+CRITERIA- w pierwszej kolejnsoci bledy highest - poziom pokrycia 75% calosci i nastepnie bedzie mozna przeprowadzic kolejny etam testow 
+i kazdy nastepny musi bcy przeprowadzony minimum w 75%aby mozna bylo zaakceptowacdanyetap 
+
+DANE - skopiowane z produkcji oraz dostarczone przez analityka
+
+NARZEDZIA- POSTMAN/SOAP UI ; JIRA ;QTEST; SELENIUM; 
+
+SRODOWISKA TESTOWE 
+
+System windows - przefgladarki firefox chrome opera  64 - 32 bvirt
+system os - safari 
+system linux?
+
+Roles and Responsibilities 
+developer - organizuje czas pracy dla testwerow i wyznaczaramyc zasowe
+test managaner zarzadza testami  oraz poszczegolnymi ich fazami 
+testerzy - kazdy posiada przypisany element  w danej fazie testowania aby przejsc do nastepnej 
+
+zgladszanie bledow  UX i GUI w porozumieniu z analitykiem poprawa ich przezprogramistow oraz ponowne retest .
+
+Test Deliverables - raportowanie o przebeigu ppszczegolnych faz testow - ilosci bledow - ilkosci zmian - czasie pozostaluym do zrobienia reles`u
+Test Locations - firma OOPCPPi hedquartes od testersroom 
+
+Schedule - daty i terminy dostarczenia testów na2 dni przed planowanym relesem i wdrozenia oprogramowania na produkcji 
+
+Risks - czas tworzeniai oprogramowania orazjego testowania =- czas zimowo jesienny przeziebiena , okresmartwy sylwester swiweta itp 
+choroba - zatrudnieniei dodatkowych osob ooraz ewentualne outsorcing
+
+
+
+
+

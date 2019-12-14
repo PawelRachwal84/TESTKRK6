@@ -1,0 +1,33 @@
+Overview (ogólny przegląd) - Sprawdzenie płynności działania strony studiovalido.com, osoba odpowiedzialna: Test manager Ola 
+
+References (referencje/odniesiania/materiały źródłowe) - studiovalido.com
+
+Approach (ogólne podejście do testów) - Informacje o poziomach testow: UAT, za testy odpowiada wewnętrzny dział testów
+
+Constrains (ograniczenia)  - Brak innych faz testów, brak sprzętu iPhone X
+
+Test Phases/types/levels - przeprowadzamy testy funkcjonalne oraz eksploracyjne
+
+Security considerations (kwestie bezpieczeństwa) - strona HTTPS, strona ma charakter informacyjny, nie wymaga logowania, jest ogólnodostępna
+
+Scope - testy czarnoskrzynkowe, sprawdzamy czy informacje na stronie zmieniają się płynnie, czy elementy klikalne są klikalne oraz czy przekierowują prawidłowo, czy karuzela działa poprawnie, czy nawigacja na stronie działa poprawnie
+
+
+Entry/Exit criteria (kryteria przechodzenia między fazami) - błędy o wysokim priorytecie zostały naprawione
+
+Test data (dane testowe) - strona ma charakter informacyjny, brak danych do wprowadzenia
+
+Test tools - 
+
+Environments (środowiska) - środowisko testowe
+
+Team management
+Roles and Responsibilities (role i obowiązki) - Iwona PO
+Test Deliverables - codzienne raporty
+Test Locations - każdy z testerów ze swojego desktopu
+Contacts - Ola, Iwona (mail)
+
+Schedule - Zakończenie I fazy testów - 23.12.2019
+	       Zakończenie projektu - czerwiec 2019
+
+Risks - brak wcześniejszych faz testów, przewidywalna jest duża ilość znalezionych błędów - propozycja zatrudnienia dodatkowej osoby w dziale testów

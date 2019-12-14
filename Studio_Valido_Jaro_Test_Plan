@@ -31,20 +31,22 @@ zakresie czasowym 2 tyg
 CRITERIA- w pierwszej kolejnsoci bledy highest - poziom pokrycia 75% calosci i nastepnie bedzie mozna przeprowadzic kolejny etam testow 
 i kazdy nastepny musi bcy przeprowadzony minimum w 75%aby mozna bylo zaakceptowacdanyetap 
 
-DANE - skopiowane z produkcji oraz dostarczone przez analityka
+DANE - skopiowane z produkcji oraz dostarczone przez analityka - witryna; powyzsza
 
-NARZEDZIA- POSTMAN/SOAP UI ; JIRA ;QTEST; SELENIUM; 
+NARZEDZIA- POSTMAN/SOAP UI ; JIRA ;QTEST; SELENIUM; devtools f12
 
 SRODOWISKA TESTOWE 
 
-System windows - przefgladarki firefox chrome opera  64 - 32 bvirt
+System windows 10 - przefgladarki firefox chrome opera  64 - 32 bvirt
 system os - safari 
 system linux?
 
 Roles and Responsibilities 
-developer - organizuje czas pracy dla testwerow i wyznaczaramyc zasowe
+PO - osoba decyzyjna
+developer - organizuje front end back end
 test managaner zarzadza testami  oraz poszczegolnymi ich fazami 
-testerzy - kazdy posiada przypisany element  w danej fazie testowania aby przejsc do nastepnej 
+testerzy - kazdy posiada przypisany element  w danej fazie testowania aby przejsc do nastepnej - zglaszaniebugowi naprawa 
+ux - projekt strony 
 
 zgladszanie bledow  UX i GUI w porozumieniu z analitykiem poprawa ich przezprogramistow oraz ponowne retest .
 
@@ -52,6 +54,7 @@ Test Deliverables - raportowanie o przebeigu ppszczegolnych faz testow - ilosci 
 Test Locations - firma OOPCPPi hedquartes od testersroom 
 
 Schedule - daty i terminy dostarczenia testów na2 dni przed planowanym relesem i wdrozenia oprogramowania na produkcji 
+ jakis wykresik czasowy i zakres dat np
 
 Risks - czas tworzeniai oprogramowania orazjego testowania =- czas zimowo jesienny przeziebiena , okresmartwy sylwester swiweta itp 
 choroba - zatrudnieniei dodatkowych osob ooraz ewentualne outsorcing

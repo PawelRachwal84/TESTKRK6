@@ -2,23 +2,25 @@ Overview: Test plan strony Studio Valido; za strzworzenie dokumentów odpowiedzi
 
 References: https://www.studiovalido.com/#
 
-Approach: plan stworzony per projekt, testy eksploracyjne
+Approach: plan stworzony per projekt, testy eksploracyjne (ze względu na braki w wymaganiach testowych)
 
-Constrains: brak wymagań testowych, ograniczenia sprzętowe - brak smartfona
+Constrains: brak wymagań testowych, ograniczenia sprzętowe - brak smartfona, krókie doświadczenie w testowaniu
 
 Test Phases: 
 -unit testy - developer
 -testy eksploracyjne - testerzy
+-retesty - testerzy
 -testy akceptacyjne - menedżer projektu
+-beta testy - użytkownicy
 
 Security considerations: 
 -brak możliwości zarejestrowania użytkowanika i logowania 
 -strona zabezpieczona - certyfikat RapidSSL RSA CA 2018
 
 Scope: 
--testy czarno skrzynkowe, 
--testy biało skrzynkowe, 
--testy statyczne
+-testy czarnoskrzynkowe, 
+-testy białoskrzynkowe, 
+-testy end to end
 
 Entry/Exit criteria: 
 -unit testy w fazie pisania kodu, 
@@ -30,6 +32,8 @@ Test data: zbiór źródłowych tekstów na stronie
 Test tools: JIRA
 
 Environments: 
+-Windows 10
+-przeglądarka Chrome
 
 Team management
 

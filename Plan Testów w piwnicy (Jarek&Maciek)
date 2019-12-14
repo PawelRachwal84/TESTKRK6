@@ -4,7 +4,7 @@ Approach: plan testu stworzony per projekt. Informacja o poziomie testów: testy
 Ograniczenia (Constrains): dostępny wyłącznie sys operacyjny iOS12, Tylko jeden junior tester (w trakcie kursu)-czyli niedobór "białka", brak znajomości wymagań, 
 Test Phases/types/levels: testy UAT - odpowiedzialny junior tester, technologia użyta: Selenium IDE
 Security considerations (kwestie bezpieczeństwa): brak logowania, strona dostępna publicznie, strona https - dane wysyłane przez strone są bezpieczne, certyfikat SSL ważny, informacje wysyłane w witrynie pozostają prywatne
-Scope (zakres testów): testy statyczne (białoskrzynkowe) w oparciu o przegląd kodu oraz pair programming, testy dynamiczne (czarnoskrzynkowe) - eksploracyjne - funkcjonalności strony: poprawność wyświetlania i przejścia pomiędzy sekcjami strony, poprawność działania buttonów na stronie
+Scope (zakres testów): testy statyczne (białoskrzynkowe) w oparciu o przegląd kodu oraz pair programming, testy dynamiczne (czarnoskrzynkowe) - eksploracyjne - funkcjonalności strony: poprawność wyświetlania i przejścia pomiędzy sekcjami strony, poprawność działania buttonów na stronie (czy elementy klikalne są klikalne i przekierowują we właściwe miejsce)
 Entry/Exit criteria (kryteria przechodzenia między fazami): testy jednostkowe w trakcie tworzenia produktu, testy UAT - faza końcowa
 Test data (dane testowe): brak konieczności wprowadzenia danych, lub uzyskanie tekstów źrdłowych wprowadzonych na stronie od developera i porównanie zgodności
 Test tools: Jira, Selenium IDE, Github, Qtest

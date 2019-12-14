@@ -27,9 +27,9 @@ Nastepnie po przetestowaniu nastepuje merge z Master
 
 Pull request - w Git Hub wymuszenie scalenia dokuentów z jednego brancha na inny
 
-Get - W Postanie czy SoapUI komenda oznaczająca pobranie wskazanych danych z użyciem API
+Get - W Postmanie czy SoapUI komenda oznaczająca pobranie wskazanych danych z użyciem API
 
-Post - W Postanie czy SoapUI koenda oznaczająca wysłanie wskazanych danych z użyciem API
+Post - W Postmanie czy SoapUI komenda oznaczająca wysłanie wskazanych danych z użyciem API
 
 Req/requirements - wymagania
 

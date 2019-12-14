@@ -15,10 +15,10 @@ Brak tabletów, smartfonów do testowania
 Test Phases/types/levels - 
 1. za testy jednostkowe odpowiedzialni są developerzy przy pomocy swoich narzędzi 
 2. testy integracyjne - tester automatyczny przy pomocy selenium webdriver
-3. testy systemowe - tester manualny testami eksploracyjnymi
+3. testy eksploracyjne - tester manualny
 4. retesty - testerzy
 5. testy regresyjne - testerzy automatyczni
-6. testy akceptacyjne - wyo=konuje PO lub klient
+6. testy akceptacyjne - wykonuje PO lub klient
 7. test beta - przez użytkowników
 
 Security considerations (kwestie bezpieczeństwa). sprawdzenie czy strona jest zabezpieczona przed nieautoryzowaną edycją,
@@ -47,6 +47,10 @@ Environments (środowiska) - windows 10, firefox, chrome
 opis/oznaczenia środowisk - a znaczenie jeśłi w firie korzysta się z wielu albo są dependencje między systemami.
 
 Team management
+test manager
+UX
+developerzy
+tasterzy
 
 Roles and Responsibilities (role i obowiązki) - opis kto jest kim i co ma robić 
 Test Deliverables - dokuentacja którą będziemy dostarczać. Oraz np jakie spotkania/raporty będą wysyłane w trakcie testó
@@ -54,7 +58,6 @@ Test Locations - jeśli rozproszone zespoły - gdzie będą odbywać sie testy. 
 Contacts
 
 Schedule - 2-tygodniowe sprinty
-daty i terminy dostarczenia testów
 
-Risks - ryzyka projektowe i produktowe z propozycją ich zmniejszenia/wyeliminowania.
+Risks - niedostępność białka ludzkiego - wypadki, l4 -> zatrudnić studentów
 

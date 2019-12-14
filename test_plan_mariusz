@@ -1,0 +1,79 @@
+Overview:
+Plan testowania strony Studio Valido, na desktopie oraz na urzadzeniu mobilnym z systemem Android v. 7 i nowsze.
+Autor: Mariusz Baran
+
+References:
+https://github.com/PawelRachwal84/TESTKRK6/mariusz/referencje_SV
+
+Approach:
+Testy podzielone na 3 sprinty po 2 tygonie.
+Sprint 1:
+Testy eksploracyjne. Wewnętrzny dział testowy.
+Sprint 2:
+Testy regresji. Wewnętrzny dział testowy.
+Sprint 3:
+Testy User Acceptance Tests. - klient na produkcji.
+
+Constraints:
+Brak urządzęn mobilnych Apple.
+
+Testy podzielone na 3 sprinty po 2 tygonie.
+Sprint 1:
+Testy eksploracyjne. Wewnętrzny dział testowy.
+Sprint 2:
+Testy regresji. Wewnętrzny dział testowy.
+Sprint 3:
+Testy User Acceptance Tests. - klient na produkcji.
+
+Security Considerations:
+Kontrola certyfikatu bezpieczeństwa SSL strony oraz docelowych adresów z linków.
+
+Scope:
+Testy do wykoniania:
+Klikalność linków - czy przenoszą w odpowienie miejsce na stronie.
+Klikalność linków do stron zewnętrznych - czy są aktywne i czy przenoszą do odpowiednich stron.
+Przewijanie strałką klawiatury, kółkiem myszy.
+Sprawdzienie działania na różnych rozdzielczościach.
+Sprawdzenei działania na urządzeniach mobilnych.
+
+Testy niewykonywane:
+Logowanie, sprawdzenie możliwosći wysłania emaila po kliknięciu w kontakt.
+
+Entry/Exit: 
+Strona jest gotowa po fazie developementu i przetestowana przez programistów. Wykryte błędy będą naprawiane w drugim sprincie.
+
+Test data:
+Lista stron do których odnoszą się linki.
+Wykaz ilustracji do weryfikacji proprawnego wyświetlania.
+Scenariusze testowe i przypadki testowe.
+
+Test tools - opis narzędzi testowych wykorzystanych w projekcie
+Selenium IDE
+przeglądarka FireFox
+Przeglądarka Google Chrome.
+Mysz z kółkiem
+Desktop PC z dotykowym wyświetlaczem.
+
+Environments:
+Windows 10, Ubuntu 18, Android 8, iOS cośtam,
+
+Team management
+Roles and Responsibilities:
+Cały jednoosobowy zespół odpowiedzialny za testy eksploracyjne.
+Test Deliverables:
+spotkania co 2 dni w celu potwierdzenia zdrowia członków zespołu.
+Test Locations:
+Każdy tester ze swojego laptopa w pierwszym sprincie, a w drugim wszycy razem w firmowym TestLab w piwnicy bez okien.
+
+Contacts:
+Marian PM - marian@sfdnwo.com
+Krystian tester - krystian@sfdnwo.com - nie przeszkadać w fazie pierwsze.
+
+Schedule:
+Sprint 1 - 07.01.2020-17.01.2020
+Sprint 2 - 20.01.2020-31.01.2020
+Sprint 3 - 03.02.2020-14-01.2020 
+
+Risks:
+Zwiększony poziom zachorowalności ze wzgledu na porę zimową. Rozwiązanie - zatrudnienie gorącej sekretarki
+(kobieta i mężczyzna w zależności od preferencji członków zespołu) do pażenia gorącej herbaty.

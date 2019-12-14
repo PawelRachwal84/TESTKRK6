@@ -32,7 +32,7 @@ zakresie czasowym 2 tyg
 CRITERIA- w pierwszej kolejnsoci bledy highest - poziom pokrycia 75% calosci i nastepnie bedzie mozna przeprowadzic kolejny etam testow 
 i kazdy nastepny musi bcy przeprowadzony minimum w 75%aby mozna bylo zaakceptowacdanyetap 
 
-DANE - skopiowane z produkcji oraz dostarczone przez analityka - witryna; powyzsza
+DANE - skopiowane z produkcji oraz dostarczone przez analityka - witryna; powyzsza - charakterinformacyjny  - singla page 
 
 NARZEDZIA- POSTMAN/SOAP UI ; JIRA ;QTEST; SELENIUM; devtools f12
 

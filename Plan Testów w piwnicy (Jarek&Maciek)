@@ -1,0 +1,17 @@
+Overview: Testowanie strony www.studiovalido.com. Przeprowadzamy testy eksploracyjne oraz akceptacyjne. Osoby odpowiedzialne za stworzenie dokumentów: Maciek
+References: brak wymagań
+Approach: plan testu stworzony per projekt. Informqcja o poziomie testów: testy UAT (akceptacyjne). Za testy odpowiada wewnętrzny dwuosobowy dział testów (piwnica pok. nr 13)
+Ograniczenia (Constrains): dostępny wyłącznie sys operacyjny iOS12, Tylko jeden junior tester (w trakcie kursu), brak znajomości wymagań
+Test Phases/types/levels: faza UAT - odpowiedzialny junior tester, technologia użyta: Selenium IDE
+Security considerations (kwestie bezpieczeństwa): brak logowania, strona dostępna publicznie, strona https - dane wysyłane przez strone są bezpieczne, certyfikat ważny, informacje wysyłane w witrynie pozostają prywatne
+Scope (zakres testów): testy dynamiczne funkcjonalności strony: poprawność wyświetlania i przejścia pomiędzy sekcjami strony, poprawność działania buttonów na stronie
+Entry/Exit criteria (kryteria przechodzenia między fazami): brak kryteriów, testy UAT - faza końcowa
+Test data (dane testowe): brak konieczności wprowadzenia danych
+Test tools: Jira, Selenium IDE, Github, Qtest
+Environments (środowiska): przeglądarka Chrome Wersja 78.0.3904.108 (64-bitowa), Komputer z systemem operacyjnym iOS Catalina wersja 10.15
+Team management: Maciek - junior tester
+Test Deliverables (dokumentacja) - wyniki testów wygenerowane z programu qtest
+Test Location: dział testów
+Contacts: 665672772
+Schedule: ASAP
+Risks - (ryzyka projektowe i produktowe z propozycją ich zmniejszenia/wyeliminowania)- propozycja zatrudnienia większej ilości pracowników, tylko jeden sys operacyjny - zalecenie zapewnienia urządzeń z innymi sys operacyjnym, udostępnienie dokumentacji i wymagań testowych

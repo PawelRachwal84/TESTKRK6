@@ -1,17 +1,28 @@
 Studio Valido
-Overview – test plan dla strony internetowej studio valido, za stworzenie dokumentu odpowiada tester -  
+Overview – sprawdzenie plynnosci dzialania strony: studio valido, osoby odpowiedzialne Edyta i Marysia  
 References - https://www.studiovalido.com/
-Approach – przeanalizowanie strony (per Project) i przetestowanie kluczowych Visual efects 
+Approach – przeanalizowanie strony (per Project), wszystkie wymagane przez sdlc testy sa wykonywane
 Informacje o poziomach testow – zastosowanie testow eksploracyjnych
 Odpowiedzialni za testy : wewnetrzna firma  M&E 
-Constrains – brak
-Test Phases/types/levels – funkcjonalna, manualna i testy eksploracyjne
-Security considerations – sprawdzenie czy strona jest HTTP
-Scope – tylko Black box tests, testy statyczne, review 
-Entry/Exit criteria (kryteria przechodzenia między fazami) – koncowa faza projektu, developer oddal plan
-Test data
-Test tools – galaxy S5, iPhone 5/SE, iPad, PC
-Environments – 
+Constrains – brak tablets, samsung
+Test Phases/types/levels – testy funkcjonalnosci - use cases, testy eksploracyjne
+przez testerow - eksploracyjne,
+Security considerations – brak rejestracji i logowania
+strona zabezpieczona certyfikatem SSL
+
+
+Scope – testy jednostkowe wykonane per programming
+testy black box: testy eksploracyjne - end to end 
+testy regresyjne po modyfikacji kodu
+sprawdzenie czy karuzela , nawigacja dzialaja poprawnie
+
+Entry/Exit criteria (kryteria przechodzenia między fazami) 
+testy jednostkowe zakonczone bez efektow lub poprawione, user story przechodzi z testow jwednostkowych do akceptacyjnych bez defektow
+
+Test data - informacje jakie testy maja sie tam znalezc
+
+Test tools – JIra witryna i qtest
+Environments – windows 10, 
 Team management
 
 Roles and Responsibilities – 
@@ -20,6 +31,5 @@ Test Locations – Test Lab
 Contacts
 
 Schedule – planowane oddanie projektu 31.01.2020
-Risks- 
- - 
+Risks- mala liczba testerow z wieksza iloscia osob na pozycji juniors
 

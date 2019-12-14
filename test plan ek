@@ -1,0 +1,44 @@
+Overview: Test plan strony Studio Valido; za strzworzenie dokumentów odpowiedzialni są testerzy
+
+References: https://www.studiovalido.com/#
+
+Approach: plan stworzony per projekt, testy eksploracyjne
+
+Constrains: brak wymagań testowych, ograniczenia sprzętowe - brak smartfona
+
+Test Phases: 
+-unit testy - developer
+-testy eksploracyjne - testerzy
+-testy akceptacyjne - menedżer projektu
+
+Security considerations: 
+-brak możliwości zarejestrowania użytkowanika i logowania 
+-strona zabezpieczona - certyfikat RapidSSL RSA CA 2018
+
+Scope: 
+-testy czarno skrzynkowe, 
+-testy biało skrzynkowe, 
+-testy statyczne
+
+Entry/Exit criteria: 
+-unit testy w fazie pisania kodu, 
+-testy eksploracyjne, 
+-testy akceptacyjne
+
+Test data: zbiór źródłowych tekstów na stronie
+
+Test tools: JIRA
+
+Environments: 
+
+Team management
+
+Roles and Responsibilities:
+
+Test Deliverables:
+
+Test Locations:
+
+Schedule: 
+
+Risks: zbyt krótkie terminy wykonania testów
